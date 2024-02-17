@@ -1,7 +1,8 @@
 {
     "Data": [
         {
-            "Cricket Introduction": [
+          "categoryTitle": "Cricket Introduction",
+            "innerData": [
                 {
                     "Introduction to cricket":
                         {
@@ -25,7 +26,8 @@
                         }
                 }
             ],
-            "Cricket Rules": [
+          "categoryTitle": "Cricket Rules",
+          "innerData": [
                 {
                     "What is test cricket": 
                         {
