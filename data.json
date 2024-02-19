@@ -103,6 +103,56 @@
                     "description": "A low boundary must be set for the cricket ground, which should include how big the field should be, the length, width, and width of the field. According to the playing area as a minimum of 137.16m from boundary to boundary square of the pitch, with the shorter of the two square boundaries, a minimum of 59.43m and maximum length is 90 yards (82.29 m). A typical cricket pitch is 22 yards (20.12 m) in length and 10 feet (3.05 m) in width, with a distance of 17.68 m between the popping creases it occurs."
                 }
             ]
+        },
+        {
+            "categoryTitle": "Cricket Tips",
+            "innerData": [
+                {
+                    "title": "It is very important to stay fit",
+                    "description": "First of all, it is very important to be fit. If you are not fit then you will not be able to perform well on the Cricket field. Always keep yourself healthy and fit."
+                },
+                {
+                    "title": "Timing is vary important",
+                    "description": "While playing a cricket match, your timing should be absolutely accurate. A second hurry or delay can spoil your game. Therefore, it is necessary to have the correct timing while playing the shot."
+                },
+                {
+                    "title": "Take regular training during sports",
+                    "description": "During the game, you should take regular training so that the body is fully prepared for the game. Warm-up and stretch before playing. Cool down and stretch after playing. Make sure that you remain fully hydrated. Drink plenty of water for this."
+                },
+                {
+                    "title": "Perfect your grip on the bat",
+                    "description": "Place the bat on the ground with its end facing you. Pick up the bat by placing your dominant hand above your non-dominant hand. Put your thumbs in the opposite direction along with your fingers. Make sure you wear gloves for batting and place your thumb in V shape. Hold the bat according to your comfort."
+                },
+                {
+                    "title": "Wear safety equipment white batting",
+                    "description": "Always wear safety equipment during training or cricket games. Such as gloves, leg pads, boxes, arm guards, etc. Also always wear a helmet while playing cricket."
+                }
+            ]
+        },
+        {
+            "categoryTitle": "Interesting Facts",
+            "innerData": [
+                {
+                    "title": "Intersting facts - 1",
+                    "description": "Cricket's Hindi name is 'Lumb Dand, Goal Bind, Fenk Mar Dhar Pratiyogita.\n\nCricket in India was founded in the year 1932 before the Second World War."
+                },
+                {
+                    "title": "Intersting facts - 2",
+                    "description": "The sport of cricket has a known history beginning in the late 16th century that originated in southeast England.\n\nCricket became the country's national sport in the 18th century and developed globally in the 19th and 20th centuries."
+                },
+                {
+                    "title": "Intersting facts - 3",
+                    "description": "For the first time in 1779, the rule of 'Leg before wicket' (LBW) was introduced in cricket.\n\nIt was on June 7, 1975, when the first-ever Men's Cricket World Cup began in England. The 1975 World Cup was played in the 60-overs format."
+                },
+                {
+                    "title": "Intersting facts - 4",
+                    "description": "India is the only country to have won the 60, 50 and the 20-over Cricket World Cups.\n\nThe world's first cricket club was formed in Hambledon in the 1760s and the world-famous Marylebone Cricket Club (MCC) was founded in 1787."
+                },
+                {
+                    "title": "Intersting facts - 5",
+                    "description": "The World Cup started in 1975. The first World Cup saw a total of 15 matches between eight teams.\n\nICC T-20 Cricket World Cup is an international tournament organized by the International Cricket Council (ICC). Its first edition was played in South Africa in 2007"
+                }
+            ]
         }
     ]
 }
