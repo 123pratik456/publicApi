@@ -78,6 +78,31 @@
                     "description": "The blade of a cricket bat is a block of wood, usually flattened on the striking surface with a bulge on its back. It is a wooden bulge in the central part of the bat that the ball usually hits. The blade is attached to a long cylindrical cane, called a handle, similar to a tennis racket.\n\nAccording to the rules, some limitations have been made regarding the size of the bat; the laws dictate that the length of a cricket bat may be no more than 38 inches (96.5cm) and the maximum width of the bat will be 108 mm, depth 67 mm and the edge 40 mm."
                 }
             ]
+        },
+        {
+            "categoryTitle": "Cricket Field",
+            "innerData": [
+                {
+                    "title": "Cricket field length",
+                    "description": "The pitch is a rectangular area of the ground 22 yards/20.12 m in length and 10 ft/3.05 m in width. It is bounded at either end by the bowling creases and on either side by imaginary lines, one each side of the imaginary line joining the centers of the two middle stumps, each parallel to it and 5 ft/1.52 m from it."
+                },
+                {
+                    "title": "Ceicket field width",
+                    "description": "The width of the cricket field is 10 feet (3.0 m). Cricket is a sport played on a wide field. In the middle of this ground, a pitch of 22 yards long and 10 feet wide is made. The cricket boundary is at least 75 yards (68 m) from the pitch which is represented by a line, lanyard, or any other appropriate object."
+                },
+                {
+                    "title": "Cricket ground shape",
+                    "description": "The famous game of cricket is played on a ground which is huge in size and is covered with grass. The shape of the ground is usually oval but one can find various shaped fields which may be perfectly circular, slightly longer but oval, and of irregular shapes."
+                },
+                {
+                    "title": "Cricket ground dimension",
+                    "description": "Its diameter varies between 137m and 150m. The ICC Test Match Standard Playing Conditions (October 2014) Law 19.1 defines the playing area as a minimum of 137.16m from boundary to boundary square of the pitch, with the shorter of the two square boundaries a minimum of 59.43m. A cricket field is of many shapes and sizes. This field is grassy and is prepared by the grounds man, which includes embarkation, cutting, rolling, and leveling of the surface. The circumference of the field is called the boundary, and sometimes it is painted or sometimes with the help of a rope to mark the boundary of the field."
+                },
+                {
+                    "title": "Cricket Field Area",
+                    "description": "A low boundary must be set for the cricket ground, which should include how big the field should be, the length, width, and width of the field. According to the playing area as a minimum of 137.16m from boundary to boundary square of the pitch, with the shorter of the two square boundaries, a minimum of 59.43m and maximum length is 90 yards (82.29 m). A typical cricket pitch is 22 yards (20.12 m) in length and 10 feet (3.05 m) in width, with a distance of 17.68 m between the popping creases it occurs."
+                }
+            ]
         }
     ]
 }
